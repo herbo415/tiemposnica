@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="693px" viewBox="0 0 320 693" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>259518CF-2028-4506-95ED-C89B95AE9647</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 693 320 693 320 633.6 0 633.6"></polygon>
+        <polygon id="path-3" points="0 633.6 320 633.6 320 574.2 0 574.2"></polygon>
+        <polygon id="path-5" points="0 574.2 320 574.2 320 514.8 0 514.8"></polygon>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background-Patterns" transform="translate(-2396.000000, -4780.000000)">
+            <g id="Backgrounds-/-320px-/-Set-For-Life" transform="translate(2396.000000, 4780.000000)">
+                <g id="Backgrounds-/-Set-For-Life-/-Square">
+                    <g id="Colours-/-Games-/-Set-For-Life-/-Default" fill="#00D6DA" fill-rule="evenodd">
+                        <rect id="Rectangle" x="0" y="0" width="320" height="693"></rect>
+                    </g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Fill-3" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="Colours-/-Games-/-Set-For-Life-/-Core-Shadow" mask="url(#mask-2)" fill="#049BA3" fill-rule="evenodd">
+                        <g transform="translate(-3.413333, 633.600000)" id="Rectangle-Copy">
+                            <rect x="0" y="0" width="323" height="59"></rect>
+                        </g>
+                    </g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Fill-1" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <g id="Colours-/-Games-/-Set-For-Life-/-Secondary" mask="url(#mask-4)" fill="#00B4BE" fill-rule="evenodd">
+                        <g transform="translate(-1.706667, 574.200000)" id="Rectangle-Copy-2">
+                            <rect x="0" y="0" width="323" height="61"></rect>
+                        </g>
+                    </g>
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Fill-1-Copy" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <g id="Colours-/-Games-/-Set-For-Life-/-Tertiary" mask="url(#mask-6)" fill="#00C8D2" fill-rule="evenodd">
+                        <g transform="translate(-1.706667, 512.820000)" id="Rectangle-Copy-3">
+                            <rect x="0" y="0" width="323" height="61"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

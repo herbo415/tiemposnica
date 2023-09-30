@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4000px" height="420px" viewBox="0 0 4000 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>D64F29A1-166D-4589-870C-A79F9901912D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="4000" height="420"></rect>
+        <polygon id="path-3" points="420 -4.54747351e-13 694 -4.54747351e-13 310.207031 420 330 420 0 420"></polygon>
+        <polygon id="path-5" points="480.013672 0 727.328125 -3.73034936e-13 330 420 60 420"></polygon>
+        <polygon id="path-7" points="540.033203 2.66505568e-14 1612 -1.38555833e-13 1612 420 120 420"></polygon>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background-Patterns" transform="translate(-407.000000, -3825.000000)">
+            <g id="Backgrounds-/-4000px-/-Lotto-Hotpicks" transform="translate(407.000000, 3825.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Colours-/-Games-/-Lotto-/-Default" mask="url(#mask-2)" fill="#E5013B" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="4000" height="420"></rect>
+                </g>
+                <g id="Group" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <g transform="translate(2388.000000, 0.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Rectangle" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="Colours-/-Games-/-Lotto-/-Tertiary" stroke="none" fill="none" mask="url(#mask-4)" fill-rule="evenodd">
+                            <g transform="translate(-1.500000, -8.000000)" fill="#CC0034" id="Rectangle-Copy-5">
+                                <rect x="0" y="0" width="500" height="428"></rect>
+                            </g>
+                        </g>
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Rectangle" stroke="none" fill="#A59C9C" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <g id="Colours-/-Games-/-Lotto-/-Secondary" stroke="none" fill="none" mask="url(#mask-6)" fill-rule="evenodd">
+                            <g transform="translate(60.000000, 0.000000)" fill="#B50A2F" id="Rectangle-Copy-4">
+                                <rect x="0" y="0" width="484" height="420"></rect>
+                            </g>
+                        </g>
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <use id="Rectangle" stroke="none" fill="#C5A3A3" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <g id="Colours-/-Games-/-Lotto-/-Core-Shadow" stroke="none" fill="none" mask="url(#mask-8)" fill-rule="evenodd">
+                            <g transform="translate(109.500000, 0.000000)" fill="#A10628" id="Rectangle-Copy-2">
+                                <rect x="0" y="0" width="1503" height="420"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

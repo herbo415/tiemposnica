@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4000px" height="420px" viewBox="0 0 4000 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>CBD6DDA2-C6EF-4AE4-8A49-7E4CCD9B586B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="4000" height="420"></rect>
+        <rect id="path-3" x="0" y="0" width="1532" height="420"></rect>
+        <rect id="path-5" x="2574" y="0" width="1426" height="420"></rect>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background-Patterns" transform="translate(-407.000000, -2483.000000)">
+            <g id="Backgrounds-/-4000px-/-Thunderball" transform="translate(407.000000, 2483.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Colours-/-Games-/-Thunderball-/-Default" mask="url(#mask-2)" fill="#BC13AD" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="4000" height="420"></rect>
+                </g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <g id="Colours-/-Games-/-Thunderball-/-Tertiary" mask="url(#mask-4)" fill="#CB27B4" fill-rule="evenodd">
+                    <rect id="Rectangle-Copy-5" x="0" y="0" width="1532" height="420"></rect>
+                </g>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <g id="Colours-/-Games-/-Thunderball-/-Core-Shadow" mask="url(#mask-6)" fill="#8A0C72" fill-rule="evenodd">
+                    <g transform="translate(2574.000000, 0.000000)" id="Rectangle-Copy-2">
+                        <rect x="0" y="0" width="1426" height="420"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="207px" height="134px" viewBox="0 0 207 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>84876C09-DC9A-40EB-97F5-FA64D12D3CDD</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="207" height="134"></rect>
+        <path d="M5.60164776,-3.19744231e-13 C2.50815522,-3.19744231e-13 -1.98951966e-13,2.49031111 -1.98951966e-13,5.55786667 L-1.98951966e-13,5.55786667 L-1.98951966e-13,55.6481778 C-1.98951966e-13,58.7187556 2.50815522,61.2 5.60164776,61.2 L5.60164776,61.2 L85.8353194,61.2 C88.9318448,61.2 91.44,58.7187556 91.44,55.6481778 L91.44,55.6481778 L91.44,5.55786667 C91.44,2.49031111 88.9318448,-3.19744231e-13 85.8353194,-3.19744231e-13 L85.8353194,-3.19744231e-13 L5.60164776,-3.19744231e-13 Z" id="path-3"></path>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Toolkit-1" transform="translate(-1427.000000, -3255.000000)">
+            <g id="Group-22" transform="translate(1427.000000, 3255.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Group-16" mask="url(#mask-2)">
+                    <g transform="translate(145.528797, 109.628497) rotate(-345.000000) translate(-145.528797, -109.628497) translate(99.028797, 67.628497)">
+                        <polygon id="Path-18" fill="#F0F0F0" points="12.4230689 20.1616268 62.1514399 20.147696 57.7460489 18.4096067 13.1882649 18.1561522"></polygon>
+                        <g id="Group-15" stroke-width="1" fill="none" transform="translate(0.000000, 0.000000)">
+                            <g id="Group-2" transform="translate(46.340000, 42.000000) scale(-1, 1) translate(-46.340000, -42.000000) translate(0.340000, -0.000000)">
+                                <path d="M15.2968639,21.5022364 L52.2729675,0.707616967 C54.9440959,-0.82651261 58.2830064,0.224261073 59.7399855,2.98629475 L61.2584721,6.31531312 L23.6317536,21.0701376" id="Stroke-3" stroke="#000080" stroke-width="3.024" stroke-linecap="round"></path>
+                                <path d="M22.5061695,21.5108731 L69.1309868,3.26430406 C71.9882808,2.13188387 75.2407325,3.58827729 76.3380549,6.50106413 L82.0304688,21.4751404" id="Stroke-1" stroke="#000080" stroke-width="3.024" stroke-linecap="round"></path>
+                                <g id="Group-7" transform="translate(0.000000, 21.600000)">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <g id="Clip-7"></g>
+                                    <path d="M89.9753856,1.46118003 L89.8874993,15.1022341 L86.1355059,15.0992017 L86.1030489,5.1830137 C86.0973468,3.44090841 87.3398925,1.94469271 89.0534087,1.63032769 L89.9753856,1.46118003 L89.9753856,1.46118003 Z" id="Path-17" fill="#F0F0F0" mask="url(#mask-4)" transform="translate(88.034292, 8.281707) scale(-1, 1) translate(-88.034292, -8.281707) "></path>
+                                    <path d="M84.33804,46.8178753 L84.4615739,54.5145686 L90.0330084,54.5145686 L90.0330084,60.7493471 L84.2969151,60.7493471 C82.30869,60.7493471 80.6969151,59.1375722 80.6969151,57.1493471 C80.6969151,57.1414046 80.6969413,57.1334621 80.6969939,57.1255198 L80.7651594,46.8268047 L80.7651594,46.8268047 L84.33804,46.8178753 Z" id="Path-17" fill="#F0F0F0" mask="url(#mask-4)" transform="translate(85.353008, 53.783611) scale(-1, 1) translate(-85.353008, -53.783611) "></path>
+                                </g>
+                                <path d="M24.8670457,82.08 L85.859397,82.08 C88.9529921,82.08 91.44,79.63392 91.44,76.5845333 L91.44,27.0984533 C91.44,24.0789333 88.9529921,21.6 85.859397,21.6 L5.60789943,21.6 C2.51430429,21.6 1.63709046e-13,24.0789333 1.63709046e-13,27.0984533 L0.00474437558,74.88 C0.00585412719,78.856171 3.22928827,82.0792851 7.20545929,82.08 L24.8670457,82.08 L24.8670457,82.08 Z" id="Stroke-9" stroke="#000080" stroke-width="3.02" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M76.32,21.6 C78.704,21.6 80.64,23.6030874 80.64,26.0704862 C80.64,30.5080994 80.64,34.0579373 80.64,36.72" id="Stroke-11" stroke="#000080" stroke-width="3.024" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
+                            <path d="M27.7056,52.279776 C27.7056,49.65192 25.57368,47.52 22.9428,47.52 C20.31192,47.52 18.18,49.65192 18.18,52.279776 C18.18,54.910656 20.31192,57.042576 22.9428,57.042576 C25.57368,57.042576 27.7056,54.910656 27.7056,52.279776 Z" id="Stroke-19" stroke="#000080" stroke-width="3.024" stroke-linecap="round"></path>
+                            <path d="M11.7,66.96 C13.95288,66.96 15.7824,68.7565901 15.7824,71.2634861 C15.7824,75.6050887 15.7824,79.1282279 15.7824,81.8329039" id="Stroke-11-Copy" stroke="#000080" stroke-width="3.024" stroke-linecap="round" stroke-linejoin="round" transform="translate(13.741200, 74.396452) rotate(-180.000000) translate(-13.741200, -74.396452) "></path>
+                            <path d="M34.74,66.96 L15.542944,66.96 C7.45744,66.96 0.9,60.5142857 0.9,52.5569524 C0.9,44.6057143 7.45744,38.16 15.542944,38.16 L34.74,38.16 L34.74,66.96 Z" id="Stroke-17" stroke="#000080" stroke-width="3.024" stroke-linecap="round" stroke-linejoin="round" transform="translate(17.820000, 52.560000) rotate(-180.000000) translate(-17.820000, -52.560000) "></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-3" mask="url(#mask-2)" stroke="#4F7BF7" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.024">
+                    <g transform="translate(96.000000, 43.000000)" id="Path-7">
+                        <line x1="8.28" y1="0" x2="8.28" y2="14.4"></line>
+                        <line x1="16.3814062" y1="7.38" x2="0.36" y2="7.46010249"></line>
+                    </g>
+                </g>
+                <g id="Group-8" mask="url(#mask-2)" stroke="#4F7BF7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8144">
+                    <g transform="translate(192.000000, 57.000000)">
+                        <line x1="4.968" y1="-4.91127139e-14" x2="4.968" y2="8.79606149" id="Path-7-Copy"></line>
+                        <line x1="9.82884375" y1="4.428" x2="0.216" y2="4.47606149" id="Path-7-Copy-2"></line>
+                    </g>
+                </g>
+                <circle id="Oval" stroke="#3460F2" stroke-width="3.024" mask="url(#mask-2)" cx="60.84" cy="112.84" r="5.328"></circle>
+                <circle id="Oval-Copy" stroke="#3460F2" stroke-width="1.8144" mask="url(#mask-2)" cx="158.96" cy="35.96" r="3.0528"></circle>
+                <circle id="Oval-Copy-2" stroke="#3460F2" stroke-width="1.08864" mask="url(#mask-2)" cx="56.52" cy="79.52" r="1.97568"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

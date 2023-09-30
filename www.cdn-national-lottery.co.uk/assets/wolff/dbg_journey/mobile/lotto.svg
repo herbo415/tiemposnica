@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="693px" viewBox="0 0 320 693" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>FA6AAABC-D769-4266-9AB0-3FA99CB9ED5E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="693"></rect>
+        <polygon id="path-3" points="0 393 300 393 300 693"></polygon>
+        <polygon id="path-5" points="170 0 320 0 320 150"></polygon>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background-Patterns" transform="translate(-407.000000, -4780.000000)">
+            <g id="Backgrounds-/-320px-/-Lotto" transform="translate(407.000000, 4780.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Colours-/-Games-/-Lotto-/-Default" mask="url(#mask-2)" fill="#E5013B" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="320" height="693"></rect>
+                </g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Rectangle" fill="#CC0034" fill-rule="evenodd" transform="translate(150.000000, 543.000000) rotate(180.000000) translate(-150.000000, -543.000000) " xlink:href="#path-3"></use>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <g id="Colours-/-Games-/-Lotto-/-Core-Shadow" mask="url(#mask-6)" fill="#A10628" fill-rule="evenodd">
+                    <g transform="translate(158.000000, -9.000000)" id="Rectangle-Copy-2">
+                        <rect x="0" y="0" width="178" height="178"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

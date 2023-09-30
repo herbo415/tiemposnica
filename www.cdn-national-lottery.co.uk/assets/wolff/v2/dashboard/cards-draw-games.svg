@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="153px" viewBox="0 0 222 153" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>83B3C201-7580-4A2A-AD62-E241AD0981C9</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="222" height="153"></rect>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Toolkit-1" transform="translate(-697.000000, -3237.000000)">
+            <g id="Group-10" transform="translate(697.000000, 3237.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(33.000000, 11.000000)">
+                        <g id="Group" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(61.000000, 51.000000)">
+                            <line x1="18.5" y1="74.5" x2="2.5" y2="91.5" id="Line-6" stroke="#000080" stroke-width="3.36" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="76" y1="91" x2="59" y2="75" id="Line-6-Copy" stroke="#000080" stroke-width="3.36" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <g id="Group-6" transform="translate(15.000000, 22.000000)" stroke="#F0F0F0" stroke-width="2.856">
+                                <circle id="Oval" cx="23.8" cy="22.1" r="5.1"></circle>
+                                <circle id="Oval-Copy" cx="5.1" cy="27.2" r="5.1"></circle>
+                                <circle id="Oval-Copy-2" cx="34.85" cy="5.1" r="5.1"></circle>
+                                <circle id="Oval-Copy-3" cx="34" cy="37.4" r="5.1"></circle>
+                                <circle id="Oval-Copy-5" cx="34.85" cy="47.6" r="5.1"></circle>
+                                <circle id="Oval-Copy-7" cx="15.3" cy="48.45" r="5.1"></circle>
+                                <circle id="Oval-Copy-6" cx="44.2" cy="40.8" r="5.1"></circle>
+                                <circle id="Oval-Copy-8" cx="46.75" cy="25.5" r="5.1"></circle>
+                                <circle id="Oval-Copy-4" cx="24.65" cy="43.35" r="5.1"></circle>
+                            </g>
+                            <circle id="Oval" stroke="#000080" stroke-width="3.36" stroke-linecap="round" stroke-linejoin="round" cx="39.5" cy="39.5" r="39.5"></circle>
+                        </g>
+                        <g id="Group-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(90.000000, 0.000000)" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="8.28" y1="0" x2="8.28" y2="14.4" id="Path-7" stroke="#4F7BF7" stroke-width="3.024"></line>
+                            <line x1="16.3814062" y1="7.38" x2="0.36" y2="7.46010249" id="Path-7" stroke="#4F7BF7" stroke-width="3.024"></line>
+                        </g>
+                        <g id="Group-8" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(163.000000, 73.000000)" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="4.968" y1="-4.91127139e-14" x2="4.968" y2="8.79606149" id="Path-7-Copy" stroke="#4F7BF7" stroke-width="1.8144"></line>
+                            <line x1="9.82884375" y1="4.428" x2="0.216" y2="4.47606149" id="Path-7-Copy-2" stroke="#4F7BF7" stroke-width="1.8144"></line>
+                        </g>
+                        <circle id="Oval-Copy" stroke="#1432C8" stroke-width="1.8144" cx="75" cy="34" r="3.0928"></circle>
+                        <circle id="Oval-Copy-10" stroke="#1432C8" stroke-width="3" cx="8" cy="89" r="6.5"></circle>
+                        <path d="M137,28.3665767 L138.949514,32.3167239 L143.30876,32.9501595 L140.15438,36.0249203 L140.899028,40.3665522 L137,38.3167116 L133.100972,40.3665522 L133.84562,36.0249203 L130.69124,32.9501595 L135.050486,32.3167239 L137,28.3665767 Z" id="Star" stroke="#F0F0F0" stroke-width="1.2096" transform="translate(137.000000, 35.000000) rotate(-20.000000) translate(-137.000000, -35.000000) "></path>
+                        <path d="M42,55.3665767 L43.9495142,59.3167239 L48.3087604,59.9501595 L45.1543802,63.0249203 L45.8990284,67.3665522 L42,65.3167116 L38.1009716,67.3665522 L38.8456198,63.0249203 L35.6912396,59.9501595 L40.0504858,59.3167239 L42,55.3665767 Z" id="Star-Copy" stroke="#F0F0F0" stroke-width="1.2096" transform="translate(42.000000, 62.000000) rotate(33.000000) translate(-42.000000, -62.000000) "></path>
+                        <path d="M40.5,111.956604 L41.8352707,114.662158 L44.8210267,115.096013 L42.6605133,117.201993 L43.1705413,120.175685 L40.5,118.771698 L37.8294587,120.175685 L38.3394867,117.201993 L36.1789733,115.096013 L39.1647293,114.662158 L40.5,111.956604 Z" id="Star-Copy-2" stroke="#F0F0F0" stroke-width="0.84672" transform="translate(40.500000, 116.500000) rotate(33.000000) translate(-40.500000, -116.500000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="126px" viewBox="0 0 226 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>76CDCBF3-0736-4FED-93C4-0C4EC9E01948</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="226" height="126"></rect>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Toolkit-1" transform="translate(-1047.000000, -3263.000000)">
+            <g id="Group-4" transform="translate(1047.000000, 3263.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(123.481670, 80.296616) rotate(-21.000000) translate(-123.481670, -80.296616) translate(31.981670, 26.296616)">
+                        <g id="Group-5" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(65.804878, 29.649027)" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M0.440134146,8.28610683 L70.2011683,8.28610683 C73.6255488,8.28610683 76.4031829,11.0628288 76.4031829,14.4881215 L76.4031829,50.3300922" id="Stroke-1" stroke="#000080" stroke-width="3.36"></path>
+                            <path d="M8.54415073,0.491490732 L78.3051849,0.491490732 C81.7304776,0.491490732 84.5071995,3.26821268 84.5071995,6.69350537 L84.5071995,42.5354761" id="Stroke-3" stroke="#000080" stroke-width="3.36"></path>
+                        </g>
+                        <text id="£" stroke="none" font-family="TNLEffra-Regular, TNL Effra" font-size="26.4" font-weight="normal">
+                            <tspan x="80.985978" y="82.0248877" fill="#44F05C">£</tspan>
+                        </text>
+                        <g id="Group-18" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(43.000000, 46.980734)" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M61.1897751,28.2003298 C61.1897751,36.6481688 54.3419263,43.4960176 45.8940873,43.4960176 C37.4462483,43.4960176 30.5983995,36.6481688 30.5983995,28.2003298 C30.5983995,19.7524907 37.4462483,12.904642 45.8940873,12.904642 C54.3419263,12.904642 61.1897751,19.7524907 61.1897751,28.2003298 Z" id="Stroke-6" stroke="#44F05C" stroke-width="2.2"></path>
+                            <path d="M16.6084278,0.881636585 C16.6084278,9.32947561 9.76057902,16.1773244 1.31274,16.1773244" id="Stroke-8" stroke="#44F05C" stroke-width="2.2"></path>
+                            <path d="M1.01873951,40.149721 C9.46566634,40.149721 16.3144273,46.998482 16.3144273,55.446321" id="Stroke-10" stroke="#44F05C" stroke-width="2.2"></path>
+                            <path d="M75.5843966,55.4458649 C75.5843966,46.9980259 82.4322454,40.1492649 90.8800844,40.1492649" id="Stroke-12" stroke="#44F05C" stroke-width="2.2"></path>
+                            <path d="M90.7327649,16.0300049 C82.2849259,16.0300049 75.4370771,9.1821561 75.4370771,0.734317073" id="Stroke-14" stroke="#44F05C" stroke-width="2.2"></path>
+                            <path d="M84.4030429,56.3277751 L7.38458439,56.3277751 C3.43204293,56.3277751 0.228413659,53.1232337 0.228413659,49.1706922 L0.228413659,7.22978488 C0.228413659,3.27724341 3.43204293,0.0727019512 7.38458439,0.0727019512 L84.4030429,0.0727019512 C88.3555844,0.0727019512 91.5601259,3.27724341 91.5601259,7.22978488 L91.5601259,49.1706922 C91.5601259,53.1232337 88.3555844,56.3277751 84.4030429,56.3277751 Z" id="Stroke-16" stroke="#000080" stroke-width="3.36"></path>
+                        </g>
+                        <line x1="43.258" y1="33.6393" x2="35" y2="33.6393" id="Stroke-23" stroke="#000080" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="41.8611" y1="25.7047" x2="36.0221" y2="19.8657" id="Stroke-25" stroke="#000080" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="50.2024" y1="27.258" x2="50.2024" y2="19" id="Stroke-27" stroke="#000080" stroke-width="2" stroke-linecap="round"></line>
+                        <g id="Group" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(161.000000, 100.000000) rotate(-180.000000) translate(-161.000000, -100.000000) translate(153.000000, 92.000000)" stroke-linecap="round">
+                            <line x1="8.258" y1="14.6393" x2="-9.50350909e-14" y2="14.6393" id="Stroke-23-Copy" stroke="#000080" stroke-width="2"></line>
+                            <line x1="6.8611" y1="6.7047" x2="1.0221" y2="0.8657" id="Stroke-25-Copy" stroke="#000080" stroke-width="2"></line>
+                            <line x1="15.2024" y1="8.258" x2="15.2024" y2="1.77635684e-14" id="Stroke-27-Copy" stroke="#000080" stroke-width="2"></line>
+                        </g>
+                        <circle id="Oval-Copy-7" stroke="#000080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="113.884443" cy="5.5041789" r="5"></circle>
+                        <circle id="Oval-Copy-8" stroke="#000080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="4.2765571" cy="42.694383" r="4"></circle>
+                        <circle id="Oval-Copy-9" stroke="#000080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="178.894943" cy="59.3802864" r="4"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

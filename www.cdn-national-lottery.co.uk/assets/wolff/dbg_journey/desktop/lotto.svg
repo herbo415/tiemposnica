@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4000px" height="421px" viewBox="0 0 4000 421" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>4B647B4A-0BFA-4DA1-BBA6-DDD9534520C9</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="4000" height="420"></rect>
+        <polygon id="path-3" points="2545.14062 2.84217094e-14 3796.06641 2.84217094e-14 4000 204.076538 4000 420.115272 2959.1748 420 2658.79688 119.796875 2557.50391 18.5039063 2539 2.84217094e-14"></polygon>
+        <polygon id="path-5" points="-5.22959454e-12 -2.84217094e-14 1049.06641 -2.84217094e-14 1469.04395 420 214.115272 420.026645 -5.22959454e-12 206.096191"></polygon>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background-Patterns" transform="translate(-396.000000, -549.000000)">
+            <g id="Backgrounds-/-4000px-/-Lotto-/-Revised" transform="translate(396.000000, 549.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Colours-/-Games-/-Lotto-/-Default" mask="url(#mask-2)" fill="#E5013B" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="4000" height="420"></rect>
+                </g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="#A67676" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <g id="Colours-/-Games-/-Lotto-/-Core-Shadow" mask="url(#mask-4)" fill="#A10628" fill-rule="evenodd">
+                    <g transform="translate(2539.000000, 0.000000)" id="Rectangle-Copy-2">
+                        <rect x="0" y="0" width="1865" height="625"></rect>
+                    </g>
+                </g>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Mask" fill="#CC0034" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>

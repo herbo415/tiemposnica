@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="693px" viewBox="0 0 320 693" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>1A8E2F65-043C-46CC-86E5-01A6FA76F727</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="693"></rect>
+        <polygon id="path-3" points="375 130 375 350 155 350"></polygon>
+        <polygon id="path-5" points="375 170 375 350 195 350"></polygon>
+        <polygon id="path-7" points="375 210 375 350 235 350"></polygon>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background-Patterns" transform="translate(-1899.000000, -4780.000000)">
+            <g id="Backgrounds-/-320px-/-Euromillions-Hotpicks" transform="translate(1899.000000, 4780.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Colours-/-Games-/-Euro-Hotpicks-/-Default" mask="url(#mask-2)" fill="#FF8000" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="320" height="693"></rect>
+                </g>
+                <g id="Backgrounds-/-Euro-Hotpicks-/-Square" mask="url(#mask-2)">
+                    <g transform="translate(-55.000000, 343.000000)">
+                        <g id="Colours-/-Games-/-Euro-Hotpicks-/-Default" stroke="none" fill="none" fill-rule="evenodd">
+                            <rect id="Rectangle" fill="#FF8000" x="0" y="0" width="375" height="350"></rect>
+                        </g>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Rectangle" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="Colours-/-Games-/-Euro-Hotpicks-/-Tertiary" stroke="none" fill="none" mask="url(#mask-4)" fill-rule="evenodd">
+                            <g transform="translate(154.000000, 129.000000)" fill="#EB6503" id="Rectangle-Copy-5">
+                                <rect x="0" y="0" width="221" height="221"></rect>
+                            </g>
+                        </g>
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Rectangle" stroke="none" fill="#A59C9C" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <g id="Colours-/-Games-/-Euro-Hotpicks-/-Secondary" stroke="none" fill="none" mask="url(#mask-6)" fill-rule="evenodd">
+                            <g transform="translate(195.000000, 170.000000)" fill="#D8460B" id="Rectangle-Copy-4">
+                                <rect x="0" y="0" width="180" height="180"></rect>
+                            </g>
+                        </g>
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <use id="Rectangle" stroke="none" fill="#C5A3A3" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <g id="Colours-/-Games-/-Euro-Hotpicks-/-Core-Shadow" stroke="none" fill="none" mask="url(#mask-8)" fill-rule="evenodd">
+                            <g transform="translate(228.000000, 203.000000)" fill="#BC3903" id="Rectangle-Copy-2">
+                                <rect x="0" y="0" width="147" height="147"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

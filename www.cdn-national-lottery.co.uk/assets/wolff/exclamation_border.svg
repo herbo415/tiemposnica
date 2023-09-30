@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 56.2 (101010) - https://sketch.com -->
+    <title>1A83D5E9-BE2B-42D2-B448-50B853019EA3@2x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M15,30 C6.71572875,30 0,23.2842712 0,15 C0,6.71572875 6.71572875,0 15,0 C23.2842712,0 30,6.71572875 30,15 C30,23.2842712 23.2842712,30 15,30 Z M15,28 C22.1797017,28 28,22.1797017 28,15 C28,7.82029825 22.1797017,2 15,2 C7.82029825,2 2,7.82029825 2,15 C2,22.1797017 7.82029825,28 15,28 Z M15,24.4616699 C13.8954305,24.4616699 13,23.5662394 13,22.4616699 C13,21.3571004 13.8954305,20.4616699 15,20.4616699 C16.1045695,20.4616699 17,21.3571004 17,22.4616699 C17,23.5662394 16.1045695,24.4616699 15,24.4616699 Z M15,5 C16.1045695,5 17,5.8954305 17,7 L17,17 C17,18.1045695 16.1045695,19 15,19 C13.8954305,19 13,18.1045695 13,17 L13,7 C13,5.8954305 13.8954305,5 15,5 Z" id="path-1"></path>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-384.000000, -214.000000)">
+            <g id="Icons-/-Burger-menu-/-Close-Copy-5" transform="translate(384.000000, 214.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#979797" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Colours-/-Core-/-Dark-Blue" mask="url(#mask-2)" fill="#000080">
+                    <g transform="translate(-0.125000, 0.000000)" id="Rectangle-Copy-2">
+                        <rect x="0" y="0" width="30" height="30"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
