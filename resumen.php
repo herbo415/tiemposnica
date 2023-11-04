@@ -422,8 +422,8 @@ div#\:cuk_bspk_how_to_claim\:margin_bottom_xlarge\:bspk-how-to-claim {
 
                                         <div class="com_inner clr" >
 
-                                            <h1 class="com_heading">Jugar Tiempos</h1>
-<p class="custom-text-jugar">Por último fije el monto que desea jugar para cada número y escoja el horario del sorteo</p>
+                                            <h1 class="com_heading">Jugar</h1>
+<p class="custom-text-jugar">Por último fije el monto que desea jugar para cada número y seleccione el horario del sorteo</p>
                                         </div>
 
                                     </div>
@@ -494,7 +494,7 @@ div#\:cuk_bspk_how_to_claim\:margin_bottom_xlarge\:bspk-how-to-claim {
                                                             <ul class="draw_numbers">
                                                                 <li class="number main"><?php echo $value ;?></li>
                                                                 <li class="number ">
-                                                                    <input type="text" class="custom-apuesta" placeholder="₡100" name="<?php echo $key;?>" required>
+                                                                    <input type="number" class="custom-apuesta" placeholder="₡100" name="<?php echo $key;?>" min="100" max="1000" required>
                                                                 </li>
                                                             </ul>
                                                             <?php
@@ -527,7 +527,7 @@ div#\:cuk_bspk_how_to_claim\:margin_bottom_xlarge\:bspk-how-to-claim {
 
                                                         <li class="number">
 
-                                                            <input type="text" class="custom-apuesta" placeholder="Teléfono" name="correo" required>
+                                                            <input type="number" class="custom-apuesta" placeholder="Teléfono" name="correo" required>
 
                                                         </li>
                                                     </ul>
@@ -539,7 +539,7 @@ div#\:cuk_bspk_how_to_claim\:margin_bottom_xlarge\:bspk-how-to-claim {
                                                         <li class="number">
 
                                                             <div class="custom-btn-container">
-                                                                <button type="submit" class="cuk_btn cuk_btn_primary cuk_cookie_consent_accept_all">Pago</button>
+                                                                <button type="submit" class="cuk_btn cuk_btn_primary cuk_cookie_consent_accept_all">Pago ▶</button>
                                                             </div>
 
                                                         </li>
@@ -577,12 +577,12 @@ div#\:cuk_bspk_how_to_claim\:margin_bottom_xlarge\:bspk-how-to-claim {
 
                                                         <h2 class="cuk_d_h56 margin_bottom_small">
                                     <span class="block" role="text">
-                                      <span>Gana hasta <br /><span class="last_line">90 veces🎉</span></span>
+                                      <span>Gane hasta <br /><span class="last_line">90x🎉</span></span>
                                     </span>
                                                         </h2>
 
                                                         <p class="secondary_line effra_light cuk_d_b20 margin_bottom_medium">
-                                                            Juegue a los <b>Tiempos Nica</b> desde la comodidad de su hogar y reciba el pago de su premio en su cuenta bancaria. Tiene la oportunidad de ganar hasta 90 veces su apuesta
+                                                            Juegue a los <b>Tiempos Nica</b> desde la comodidad de su hogar y reciba el pago de su premio en su cuenta bancaria.
                                                         </p>
 
 
@@ -711,7 +711,7 @@ div#\:cuk_bspk_how_to_claim\:margin_bottom_xlarge\:bspk-how-to-claim {
                                             <!-- <p class="margin_bottom_medium cuk_d_b20 cuk_m_h25">You can set you own <a href="/my-account/details-and-settings/spend-and-play-settings?icid=bsp:na:tx">spend and play limits</a>, if you like.  We're all about being fun and <a 	href="/responsible-play?icid=bsp:na:tx">responsible</a>.</p> -->
 
                                             <p class="margin_bottom_medium cuk_d_b20 cuk_m_h25">
-                                                Tiempos Nica te trae los resultados de la loteria nica de hoy y los números ganadores de la loto nica. ¡Felicidades a los ganadores!</p>
+                                                Tiempos Nica te trae los resultados de la loteria nica de hoy y los números ganadores de la loto nica.</p>
 
                                         </div>
                                     </div>
@@ -736,7 +736,7 @@ div#\:cuk_bspk_how_to_claim\:margin_bottom_xlarge\:bspk-how-to-claim {
                                     <div class="grid_4">
                                         <div class="inner clr">
                                             <img class="age_restriction_img" src="https://www.cdn-national-lottery.co.uk/c/i/footer/age_restriction.svg~5869" alt="age restriction" width="40" height="40">
-                                            <p class="age_restriction cuk_d_b12">Los jugadores deben tener 18 años o más y estar ubicados en Nicaragua o Costa Rica.</p>
+                                            <p class="age_restriction cuk_d_b12">Los jugadores deben tener 18 años o más y estar ubicados en Costa Rica.</p>
                                         </div>
                                     </div>
 
@@ -746,9 +746,9 @@ div#\:cuk_bspk_how_to_claim\:margin_bottom_xlarge\:bspk-how-to-claim {
 
                                             <ul class="social_icons">
 
-                                                <li><a href="https://www.facebook.com/tiemposnica"><img src="https://img.freepik.com/free-icon/facebook_318-566730.jpg" alt="Facebook" width="40" height="40"></a></li>
+                                                <li><a href="https://www.facebook.com/nicatiempos"><img src="https://img.freepik.com/free-icon/facebook_318-566730.jpg" alt="Facebook" width="40" height="40"></a></li>
 
-                                                <li><a href="https://www.instagram.com/tiemposnica/"><img src="https://www.cdn-national-lottery.co.uk/c/i/footer/instagram.svg~8c92" alt="Instagram" width="40" height="40"></a></li>
+                                               
                                             </ul>
 
                                         </div>

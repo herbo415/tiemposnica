@@ -104,7 +104,12 @@
 			  text-transform: uppercase !important;
 			}
 		
-
+p.captura {
+    color: navy;
+    font-weight: 800;
+    font-size: 15px !important;
+    text-transform: uppercase;
+}
     </style>
 
 
@@ -1432,28 +1437,32 @@ VALUES ('$serialized_userdata')";
                                                         </p>
 
                                                         <p class="secondary_line effra_light cuk_d_b20 margin_bottom_medium">
-                                                            Completa tu compra realizando el pago de <b>₡<?php echo $total ;?></b> por sinpe móvil al <b>83249886</b>
-                                                        <hr>
-                                                            Toma una captura de este tiquete.
-                                                        <br>
-                                                        Para que puedas reclamar tu premio.
-														    
+                                                            Completa tu compra realizando el pago de <b>₡<?php echo $total ;?></b> por sinpe móvil al <b>60170413</b>
+															
+															
+                                                      
+                                                        
+														
                                                         </p>
+													
+													 <p class="captura">
+													
+													Tome una captura de este tiquete
+														   <hr>
+  </p>
+													
+                                                 <div class="custom-center">
+                                                 
+													 <form action="https://wa.me/50686789089/?text=">
+														  <button class="cuk_btn cuk_btn_primary" type="submit">Enviar Comprobante</button>
 
-                                                    
-
-                                                          <div class="secondary_line effra_light cuk_d_b20 margin_bottom_medium">
-                                                          <br><br><br>
-                                                        </div>
+</form>
+                                                               
+                                                          
+                                                  
+</div>
 													
 													
-
-                                                        <p class="secondary_line effra_light cuk_d_b20 margin_bottom_medium">
-                                                            <a href="https://wa.me/50686789089/?text=">
-                                                                <span class="cuk_btn cuk_btn_primary">Enviar Comprobante</span>
-                                                            </a>
-                                                        </p>
-
                                                     </div>
 
                                                 </div>
@@ -1573,7 +1582,7 @@ VALUES ('$serialized_userdata')";
                                             <!-- <p class="margin_bottom_medium cuk_d_b20 cuk_m_h25">You can set you own <a href="/my-account/details-and-settings/spend-and-play-settings?icid=bsp:na:tx">spend and play limits</a>, if you like.  We're all about being fun and <a 	href="/responsible-play?icid=bsp:na:tx">responsible</a>.</p> -->
 
                                             <p class="margin_bottom_medium cuk_d_b20 cuk_m_h25">
-                                                Tiempos Nica te trae los resultados de la loteria nica de hoy y los números ganadores de la loto nica. ¡Felicidades a los ganadores!</p>
+                                                Tiempos Nica te trae los resultados de la loteria nica de hoy y los números ganadores de la loto nica.</p>
 
                                         </div>
                                     </div>
@@ -1598,7 +1607,7 @@ VALUES ('$serialized_userdata')";
                                     <div class="grid_4">
                                         <div class="inner clr">
                                             <img class="age_restriction_img" src="https://www.cdn-national-lottery.co.uk/c/i/footer/age_restriction.svg~5869" alt="age restriction" width="40" height="40">
-                                            <p class="age_restriction cuk_d_b12">Los jugadores deben tener 18 años o más y estar ubicados en Nicaragua o Costa Rica.</p>
+                                            <p class="age_restriction cuk_d_b12">Los jugadores deben tener 18 años o más y estar ubicados en Costa Rica.</p>
                                         </div>
                                     </div>
 
@@ -1608,9 +1617,9 @@ VALUES ('$serialized_userdata')";
 
                                             <ul class="social_icons">
 
-                                                <li><a href="https://www.facebook.com/tiemposnica"><img src="https://img.freepik.com/free-icon/facebook_318-566730.jpg" alt="Facebook" width="40" height="40"></a></li>
+                                                <li><a href="https://www.facebook.com/nicatiempos"><img src="https://img.freepik.com/free-icon/facebook_318-566730.jpg" alt="Facebook" width="40" height="40"></a></li>
 
-                                                <li><a href="https://www.instagram.com/tiemposnica/"><img src="https://www.cdn-national-lottery.co.uk/c/i/footer/instagram.svg~8c92" alt="Instagram" width="40" height="40"></a></li>
+                               
                                             </ul>
 
                                         </div>
@@ -3452,8 +3461,8 @@ VALUES ('$serialized_userdata')";
 
 <script type="text/javascript" src="www.cdn-national-lottery.co.uk/assets/smartAppBanner-4c1cb1dde6855b1435df339da1e724b1.js" ></script>
 
-      
-      <script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
+
+<script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
 <script>
     var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"","cornerRadius":40,"marginBottom":20,"marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"50686789089","welcomeMessage":"","zIndex":999999,"btnColorScheme":"light"};
     window.onload = () => {
