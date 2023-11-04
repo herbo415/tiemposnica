@@ -1438,11 +1438,6 @@ VALUES ('$serialized_userdata')";
 
                                                         <p class="secondary_line effra_light cuk_d_b20 margin_bottom_medium">
                                                             Completa tu compra realizando el pago de <b>₡<?php echo $total ;?></b> por sinpe móvil al <b>60170413</b>
-															
-															
-                                                      
-                                                        
-														
                                                         </p>
 													
 													 <p class="captura">
